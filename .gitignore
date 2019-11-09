@@ -1,0 +1,7 @@
+# Project exclude paths
+/commons/target/
+/hibernate-starter/target/
+/jdbc-starter/target/
+/jpa-starter/target/
+/library-manager/target/
+/zoo-keeper/target/
